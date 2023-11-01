@@ -5,7 +5,7 @@ $RECYCLE.BIN/
 # ?
 .dropbox.device
 # updatedb local db files
-.molocate.db*
+.mlocate.db*
 # ?
 System Volume Information/
 # Media data.
